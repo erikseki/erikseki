@@ -1,5 +1,7 @@
-## Hello! Eu sou o *Erik* 
+## Hello! Eu sou o *Erik Hideyuki* 
 </br>
+
+ ![51677b3a55ae1578470f8ed59b775f17](https://user-images.githubusercontent.com/56083781/130707248-6007794f-e4a4-4e9f-8e2b-6c3a192a19ed.gif)
 
 - 🌱 Atualmente estudando Javascript & Nodejs
 - 📫 Contate-me no email: erikseki@hotmail.com
@@ -21,8 +23,11 @@
   <img align="center" alt="erik-Css" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
   <img align="center" alt="erik-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" />
   <img align="center" alt="erik-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+ 
+</div></br>
+ 
+ <img src="https://komarev.com/ghpvc/?username=erikseki&color=green" alt="erikseki" />
   
   ##
 
+  ![Snake animation](https://github.com/erikseki/erikseki/blob/output/github-contribution-grid-snake.svg)
