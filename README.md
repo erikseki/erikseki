@@ -1,11 +1,11 @@
-## Hello! Eu sou o *Erik Hideyuki* 
+<!--## Hello! Eu sou o *Erik Hideyuki* -->
 </br>
 
- ![51677b3a55ae1578470f8ed59b775f17](https://user-images.githubusercontent.com/56083781/130707248-6007794f-e4a4-4e9f-8e2b-6c3a192a19ed.gif)
+<!-- ![51677b3a55ae1578470f8ed59b775f17](https://user-images.githubusercontent.com/56083781/130707248-6007794f-e4a4-4e9f-8e2b-6c3a192a19ed.gif)-->
 
 - 🌱 Atualmente estudando Javascript & Nodejs
 - 📫 Contate-me no email: erikseki@hotmail.com
-- ⚡ Fatos: love pizza and games
+<!-- - ⚡ Fatos: love pizza and games -->
 
 <head>
   <link rel="stylesheet" href="devicon.min.css">
