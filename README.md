@@ -30,4 +30,5 @@
   
   ##
 
+  
   ![Snake animation](https://github.com/erikseki/erikseki/blob/output/github-contribution-grid-snake.svg)
